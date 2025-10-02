@@ -47,7 +47,7 @@ DXY_TICKER = None   # e.g. "DX-Y.NYB" (user can change). Set to None to disable.
 SPX_TICKER = "^GSPC"
 
 # Optional: NewsAPI key (if you want headline scanning). Leave None to skip.
-NEWSAPI_KEY = None
+NEWSAPI_KEY = b84f417086344a90b1f2ec5237b509f7
 
 # -------------------------
 # Helpers & Data fetchers
